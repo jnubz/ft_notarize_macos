@@ -2,6 +2,8 @@
 
 A comprehensive bash script to automate the macOS notarization process for Flet applications, handling code signing, virtual environment cleaning, DMG creation, and Apple notarization submission.
 
+To learn more about Flet, head over to their [Website](https://flet.dev), or [Repo](https://github.com/flet-dev/flet)
+
 ## What It Does
 
 This script streamlines the entire macOS app notarization workflow:
